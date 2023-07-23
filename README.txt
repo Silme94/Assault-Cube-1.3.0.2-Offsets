@@ -1,4 +1,4 @@
-## AssaultCube 1.3.0.2 Offsets (2023)
+AssaultCube 1.3.0.2 Offsets (2023)
 
 LocalPlayer [ModuleHandle + 0x0017E0A8]
 
