@@ -1,4 +1,6 @@
 AssaultCube 1.3.0.2 Offsets (2023)
+(https://github.com/Silme94/2023-Assault-Cube-1.3.0.2-Offsets)
+
 
 LocalPlayer [ModuleHandle + 0x0017E0A8]
 
