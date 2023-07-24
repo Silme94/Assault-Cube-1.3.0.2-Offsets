@@ -4,7 +4,7 @@ AssaultCube 1.3.0.2 Offsets (2023)
 
 LocalPlayer [ModuleHandle + 0x0017E0A8]
 
-Entity List [ModuleHandle + 0x0191FCC] (Not sure about it)
+Entity List [ModuleHandle + 0x18AC04]
 
 Player Position X [0x2C]
 Player Position Y [0x30]
