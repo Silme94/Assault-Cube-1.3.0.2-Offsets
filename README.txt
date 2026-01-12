@@ -1,4 +1,4 @@
-AssaultCube 1.3.0.2 Offsets (2024)
+AssaultCube 1.3.0.2 Offsets (2026)
 (https://github.com/Silme94/Assault-Cube-1.3.0.2-Offsets)
 
 
