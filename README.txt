@@ -12,8 +12,8 @@ Position Y                [0x30]
 Position Z                [0x28]
 
 Head Position X           [0x4]
-Head Position Y           [0xC]
-Head Position Z           [0x8]
+Head Position Y           [0x8]
+Head Position Z           [0xC]
 
 Player Camera X           [0x34]
 Player Camera Y           [0x38]
